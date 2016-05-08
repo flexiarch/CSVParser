@@ -1,0 +1,1 @@
+<Playlist Version="1.0"><Add Test="CSVParser.Tests.CSVTests.csv_stream_has_error_row_row" /><Add Test="CSVParser.Tests.CSVTests.csv_parse_library_works" /><Add Test="CSVParser.Tests.CSVTests.csv_stream_has_a_header_row" /></Playlist>
